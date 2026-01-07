@@ -1,6 +1,6 @@
 public class ProductOFArrayExpectSelf {
     public static void main(String[] args) {
-        int arr2[] = {1,2,3,4};
+        int arr2[] = {-1,1,0,-3,3};
         int temp[] =productExceptSelf(arr2);
         for(int i: temp){
             System.out.print(i+", ");
@@ -9,7 +9,7 @@ public class ProductOFArrayExpectSelf {
     public static int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[]arr = new int[n];
-        arr[0] = nums[0];
+        arr[0] = 1;
         for(int i=1;i<n;i++){
             arr[i] = arr[i-1]*nums[i-1];
         }
