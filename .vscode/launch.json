@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddBinary",
+            "request": "launch",
+            "mainClass": "AddBinary",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "LengthOfLastWord",
             "request": "launch",
             "mainClass": "LengthOfLastWord",
