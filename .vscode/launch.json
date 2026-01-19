@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveNthNodeFromEnd",
+            "request": "launch",
+            "mainClass": "RemoveNthNodeFromEnd",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "AddBinary",
             "request": "launch",
             "mainClass": "AddBinary",
