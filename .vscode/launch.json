@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSortedList",
+            "request": "launch",
+            "mainClass": "MergeSortedList",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "RemoveNthNodeFromEnd",
             "request": "launch",
             "mainClass": "RemoveNthNodeFromEnd",
