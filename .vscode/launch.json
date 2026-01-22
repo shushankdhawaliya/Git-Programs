@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveElementLInkedlist",
+            "request": "launch",
+            "mainClass": "RemoveElementLInkedlist",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "SwapTwoNodesInPairs",
             "request": "launch",
             "mainClass": "SwapTwoNodesInPairs",
