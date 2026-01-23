@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "RemoveElementLInkedlist",
             "request": "launch",
             "mainClass": "RemoveElementLInkedlist",
