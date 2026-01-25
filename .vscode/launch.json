@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prefixSubArray",
+            "request": "launch",
+            "mainClass": "prefixSubArray",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "RotateImage",
             "request": "launch",
             "mainClass": "RotateImage",
