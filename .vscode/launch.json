@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpiralOrder",
+            "request": "launch",
+            "mainClass": "SpiralOrder",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "prefixSubArray",
             "request": "launch",
             "mainClass": "prefixSubArray",
