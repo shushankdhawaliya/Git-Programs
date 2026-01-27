@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "SpiralOrder",
             "request": "launch",
             "mainClass": "SpiralOrder",
