@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "SingleNumber2",
+            "request": "launch",
+            "mainClass": "SingleNumber2",
+            "projectName": "Git Programs_3881d257"
+        },
         {
             "type": "java",
             "name": "SquareRoot",
