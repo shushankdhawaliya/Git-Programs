@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicateFromSortedList",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateFromSortedList",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "SingleNumber2",
             "request": "launch",
             "mainClass": "SingleNumber2",
