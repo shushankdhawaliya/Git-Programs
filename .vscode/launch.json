@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveMissingElement",
+            "request": "launch",
+            "mainClass": "RemoveMissingElement",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicateFromSortedList",
             "request": "launch",
             "mainClass": "RemoveDuplicateFromSortedList",
