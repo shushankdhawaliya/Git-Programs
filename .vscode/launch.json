@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteMiddleNodeOfALinkedList",
+            "request": "launch",
+            "mainClass": "DeleteMiddleNodeOfALinkedList",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "RemoveMissingElement",
             "request": "launch",
             "mainClass": "RemoveMissingElement",
