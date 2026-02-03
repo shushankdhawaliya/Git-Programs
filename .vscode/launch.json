@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MiddleOLInkedList",
+            "request": "launch",
+            "mainClass": "MiddleOLInkedList",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "StringToInteger",
             "request": "launch",
             "mainClass": "StringToInteger",
