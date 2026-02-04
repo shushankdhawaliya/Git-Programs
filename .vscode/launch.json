@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IsomorphicString",
+            "request": "launch",
+            "mainClass": "IsomorphicString",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "MiddleOLInkedList",
             "request": "launch",
             "mainClass": "MiddleOLInkedList",
