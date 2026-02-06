@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "movesZeroes",
+            "request": "launch",
+            "mainClass": "movesZeroes",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "IsomorphicString",
             "request": "launch",
             "mainClass": "IsomorphicString",
