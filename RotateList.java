@@ -35,7 +35,7 @@ public class RotateList {
         System.out.println("Before:");
         printList(head);
 
-        head = removeNthFromEnd(head, 2);
+        head = rotateRight(head, 2);
 
         System.out.println("After:");
         printList(head);
