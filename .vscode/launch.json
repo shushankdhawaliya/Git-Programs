@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "StringCompression",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "movesZeroes",
             "request": "launch",
             "mainClass": "movesZeroes",
