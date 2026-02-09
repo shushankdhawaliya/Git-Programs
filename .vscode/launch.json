@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertCommonDivisor",
+            "request": "launch",
+            "mainClass": "insertCommonDivisor",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "StringCompression",
             "request": "launch",
             "mainClass": "StringCompression",
