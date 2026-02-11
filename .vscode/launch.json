@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeDuplicatesFromSortedArray",
+            "request": "launch",
+            "mainClass": "removeDuplicatesFromSortedArray",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "longestBalanced",
             "request": "launch",
             "mainClass": "longestBalanced",
