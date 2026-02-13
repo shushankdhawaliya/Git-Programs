@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "setMatrixZeroes",
+            "request": "launch",
+            "mainClass": "setMatrixZeroes",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "sqrtFunction",
             "request": "launch",
             "mainClass": "sqrtFunction",
