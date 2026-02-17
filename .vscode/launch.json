@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "readBinaryWatch",
+            "request": "launch",
+            "mainClass": "readBinaryWatch",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "permutation2",
             "request": "launch",
             "mainClass": "permutation2",
