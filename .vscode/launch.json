@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountBInarySearch",
+            "request": "launch",
+            "mainClass": "CountBInarySearch",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "alternativeBits",
             "request": "launch",
             "mainClass": "alternativeBits",
