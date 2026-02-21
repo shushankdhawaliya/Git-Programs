@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CoutnSetPrimeBits",
+            "request": "launch",
+            "mainClass": "CoutnSetPrimeBits",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "CountDifference",
             "request": "launch",
             "mainClass": "CountDifference",
