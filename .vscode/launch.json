@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxProductOfStringArray",
+            "request": "launch",
+            "mainClass": "maxProductOfStringArray",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "binaryGap",
             "request": "launch",
             "mainClass": "binaryGap",
