@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sortByBits",
+            "request": "launch",
+            "mainClass": "sortByBits",
+            "projectName": "Git Programs_3881d257"
+        },
+        {
+            "type": "java",
             "name": "climbStairs",
             "request": "launch",
             "mainClass": "climbStairs",
